@@ -1,0 +1,28 @@
+{
+  "projectName": "GEEKHUB_[V.2.0]#6",
+  "reportPeriod": "01.03.2022-31.03.2022",
+  "Working Days": "21",
+  "defaultData": [
+    {
+      "Position": "Consultant",
+      "Employee": "Mykhailo Kramarenko",
+      "Rate": "-",
+      "Planned": "72h",
+      "Reported": "-",
+      "Total Cost": "8529.22",
+      "Regular": 2,
+      "Overtimes": 3,
+      "Interviewers": ["Person1", "Person2"]
+    },
+    {
+      "Position": "Project Manager",
+      "Employee": "Yana Montashevych",
+      "Rate": "-",
+      "Planned": "72h",
+      "Reported": "-",
+      "Total Cost": "1111.11",
+      "Regular": 4,
+      "Overtimes": 5
+    }
+  ]
+}
